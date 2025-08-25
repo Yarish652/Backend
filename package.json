@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a backend that is relevant as my second code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "2nd",
+    "javascript"
+  ],
+  "author": "itsweed",
+  "license": "ISC"
+}
